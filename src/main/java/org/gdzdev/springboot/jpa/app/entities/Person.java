@@ -23,4 +23,7 @@ public class Person {
 
     @Column(name = "programming_language")
     private String programmingLanguage;
+
+    @Embedded
+    private Auditable audit = new Auditable();
 }
