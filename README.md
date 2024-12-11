@@ -41,5 +41,5 @@ Este proyecto se centra en los conceptos básicos de Spring Data JPA y Hibernate
 ## 📚 Recursos y documentación adicional
 Para profundizar en los conceptos de Spring Data JPA y Hibernate, aquí tienes algunos enlaces útiles:
 
-* [Documentación oficial de Spring Data JPA](https://docs.spring.io/spring-data/jpa/reference/jpa.html).
-* [Documentación oficial de Hibernate](https://hibernate.org/).
+* [Documentación oficial de Spring Data JPA](https://docs.spring.io/spring-data/jpa/reference/jpa.html)...
+* [Documentación oficial de Hibernate](https://hibernate.org/)...
