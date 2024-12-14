@@ -3,7 +3,7 @@
 ## 📋 Descripción
 Este proyecto se centra en los conceptos básicos de Spring Data JPA y Hibernate para gestionar bases de datos relacionales en aplicaciones Java. Aquí podrás practicar el mapeo de entidades, la creación de repositorios y la ejecución de consultas.
 
-## 🧰 Tecnologías utilizadas
+## 🧰 Tecnologías utilizadas 
 - `Java` 🟦
 - `Spring Boot` 🌱
 - `Spring Data JPA` 📜
